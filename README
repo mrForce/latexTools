@@ -1,0 +1,1 @@
+The rank_math.py script takes in a latex file, and finds all of the inline math sections: $...$, using regular expressions. Then, it orders them from longest to shortest, and prints them out. I recommend piping this into less.
